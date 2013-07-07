@@ -1,10 +1,9 @@
 {
   "name": "connect-page",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "render HTML page to bootstrap single page app for connect",
   "main": "index.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "coffee-script": "~1.6.2",
     "mocha": "~1.9.0",
