@@ -1,6 +1,6 @@
 {
   "name": "connect-page",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "render HTML page to bootstrap single page app for connect",
   "main": "index.js",
   "dependencies": {},
